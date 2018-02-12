@@ -1,2 +1,1 @@
-# Hello-world
-Testing github
+I am exploring github right now. This is learning about branching....
